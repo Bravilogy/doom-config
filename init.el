@@ -48,7 +48,7 @@
 
        :editor
        multiple-cursors  ; editing in many places at once
-       parinfer          ; turn lisp into python, sort of
+       ;parinfer          ; turn lisp into python, sort of
        rotate-text       ; cycle region at point between text candidates
 
        :emacs
@@ -109,10 +109,10 @@
         +export          ; Exporting org to whatever you want
         +present)        ; Emacs for presentations
       ;perl              ; write code no one else can comprehend
-      ;php               ; perl's insecure younger brother
+       php               ; perl's insecure younger brother
       ;plantuml          ; diagrams for confusing people more
       ;purescript        ; javascript, but functional
-      ;python            ; beautiful is better than ugly
+       python            ; beautiful is better than ugly
       ;qt                ; the 'cutest' gui framework ever
       ;racket            ; a DSL for DSLs
        rest              ; Emacs as a REST client
